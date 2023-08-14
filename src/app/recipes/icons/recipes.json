@@ -1,0 +1,2162 @@
+{
+    "version": "1.6.0",
+    "status": "success",
+    "data": {
+        "recipes": [
+            {
+                "uuid": "c619c017-ffae-4d2d-8477-28d72a07754b",
+                "status": "active",
+                "visibility": "",
+                "name": "Ally's Beef and Black Bean Dish",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. In a slow cooker add broth, beef, black beans, celery, onion and spices. Cook on low 1 hour.\n\n2.  Add peppers and cook for another 30-45 minutes or until everything thickens. Adjust spices if desired and serve.\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "4b801b13-3728-4430-8b8f-b187c18c12d8",
+                    "a55021c0-f71a-4fcd-94be-ba85e4a8b1cf",
+                    "644580ab-849e-416d-a5fe-4e9b80102194"
+                ],
+                "images": [
+                    {
+                        "uuid": "53ed71bc-14de-46aa-84b7-0e3cf7e6e57f",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/53ed71bc-14de-46aa-84b7-0e3cf7e6e57f.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "e0ad9ad1-c1b9-4815-97c7-6454d14d9045",
+                "status": "active",
+                "visibility": "",
+                "name": "Almond Butter Bunless Burger",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Almond Butter Sauce**\r\n\r\n1. In a small sauce pan mix almond butter and water. Bring to a slow simmer on low flame and keep stirring until it has reached a thick consistency.\r\n\r\n2. Add the coconut aminos and mix well.\r\n\r\n3. In the meantime in a small food processor mix garlic cloves, the chili peppers, with their seeds, vinegar and swerve, then blend until a smooth paste is formed. \r\n\r\n4. Add the chili paste to the almond butter mix and stir until well blended. Set aside.\r\n\r\n\r\n**Burgers**\r\n\r\n1. Bring the ground beef to room temperature. Shape into 4 patties, then put an indentation in the middle of each patty with your thumb, so the patty will not become round once cooked. \r\n\r\n2. Cook patties on skillet or grill until desired doneness. \r\n\r\n**To assemble the burger:**\r\n\r\n1. Place 2 lettuce leaves in the bottom of each dish, they can be folded if they are too large. \r\n\r\n2. Place the patties on top of the lettuce. \r\n\r\n3. Place, cheese, bacon, onions and avocado on the patties. \r\n\r\n4. Drizzle the almond butter sauce and *Enjoy!*\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "50f7d5b7-244d-4917-90e5-cf2b9f7802d2",
+                    "9cf875f2-4c01-461d-9166-feba24d64f65"
+                ],
+                "images": [
+                    {
+                        "uuid": "62d527be-66b4-4361-bf79-43c804a01d7b",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/62d527be-66b4-4361-bf79-43c804a01d7b.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "633efc54-a8f8-4a02-9854-a29beaa71736",
+                "status": "active",
+                "visibility": "",
+                "name": "Asian Style Beef and Broccoli",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Over medium heat, in a wok or saucepan with oil, sauté the garlic, ginger and onion for 3-4 minutes. \r\n\r\n2. Add the beef and cook for 5 minutes. \r\n\r\n3. Add the broccoli and bell pepper. \r\n\r\n4. In a small bowl, mix soy sauce, honey, lemon, and ground pepper. Adjust to taste. \r\n\r\n5. In another small bowl, mix flour and half of the water. Set aside. \r\n\r\n6. Pour the soy sauce mixture in the wok then add the remaining half of the water. Cook for 10 - 15 minutes or until the vegetables are cooked through but still crispy.\r\n\r\n7. Pour the flour mixture and cook until the sauce is thick. *Serve!*\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 2,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "433d4877-bc6c-46bd-883f-dec7d3dde879"
+                ],
+                "images": [
+                    {
+                        "uuid": "ef2a4bc7-4b48-41b4-b64e-9aee786a45fa",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/ef2a4bc7-4b48-41b4-b64e-9aee786a45fa.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "6fe98c29-5daf-4cb7-a42f-f14ac76f04d2",
+                "status": "active",
+                "visibility": "",
+                "name": "Bacon Cheeseburger Cauliflower Casserole",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Steam the cauliflower until fork tender. \r\n\r\n2. Place into a food processor and pulse until it resembles rice. Set aside in a bowl to cool then add the flour and salt and mix well.\r\n\r\n3. Cook the bacon in a large skillet until moderately cooked, but not crisp. Remove bacon with a slotted spoon to keep bacon juice in skillet. Transfer bacon to a paper towel lined plate to cool. Once cool chop into pieces. \r\n\r\n4. Add the ground beef to the same skillet and cook until browned.\r\n\r\n5. Add the onion powder, oregano, garlic powder, salt, pepper and mix well. Remove the beef with a slotted spoon and transfer to a bowl.\r\n\r\n**Preheat oven to 350F Degrees.**\r\n\r\n**For the sauce:**\r\n\r\n1. Add the butter to the same skillet and stir in the flour over low heat. Cook until the flour has absorbed the butter then add heavy cream and mustard. Continue to cook on low heat until the sauce thickens.\r\n\r\n**Assembly:**\r\n\r\n1. Place 1/2 Cup of the sauce to the bottom of a 9x13in. baking dish. Spread the cauliflower mixture on the spread as evenly as possible.\r\n\r\n2. Place 4 ounces of cheese over the cauliflower. Spread the ground beef over the cheddar slices evenly. \r\n\r\n3. Pour half of the remaining sauce over the beef. Place the remaining cheddar slices over the sauce.\r\nPour the remaining sauce over the top and sprinkle with bacon. Cover and bake 30 minutes.\r\n\r\n4. Uncover and bake an additional 5 minutes. Allow to cool out of the oven for 15-20 minutes before slicing and serving.\r\n",
+                "ingredients": null,
+                "servings": 6,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "9ab9229d-c96a-4e32-bdb7-7ea5124a9ec3",
+                    "50f7d5b7-244d-4917-90e5-cf2b9f7802d2",
+                    "433d4877-bc6c-46bd-883f-dec7d3dde879",
+                    "9cf875f2-4c01-461d-9166-feba24d64f65"
+                ],
+                "images": [],
+                "favorite": true
+            },
+            {
+                "uuid": "6b912606-3cc3-44de-9c75-4ff1b3c519d7",
+                "status": "active",
+                "visibility": "",
+                "name": "Bacon Cheeseburger Wrap",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Brown ground beef in a large skillet over medium-high heat. Drain any grease. \r\n\r\n2. Add Worcestershire sauce, ketchup, minced onion and salt and pepper to beef. Stir to combine. Reduce heat to low and let mixture heat thoroughly, about 5 minutes or so. \r\n\r\n3. Sprinkle some cheddar cheese down the center of each tortilla. Add a few Tbsp of beef mixture on top of cheese. Drizzle a little mustard (and more ketchup, if desired) on top of the beef and then add tomato slices. Roll up each tortilla burrito-style. \r\n\r\n4. Place wraps, a couple at a time, onto a preheated indoor grill and grill for 3-5 minutes, or until cheese is melted. Carefully remove wraps from grill and place on a plate. \r\n\r\n5. Gently unravel wrap to add some lettuce. Re-roll wrap and then cut in center diagonally. *Serve* immediately and *Enjoy.*\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "9ab9229d-c96a-4e32-bdb7-7ea5124a9ec3",
+                    "9cf875f2-4c01-461d-9166-feba24d64f65"
+                ],
+                "images": [],
+                "favorite": true
+            },
+            {
+                "uuid": "73c226fe-d98d-4e5f-84c5-ef5aeea4a51e",
+                "status": "active",
+                "visibility": "",
+                "name": "Baked Cabbage",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Preheat oven to 350F Degrees.**\r\n\r\n1.  In skillet, saute onion and celery and garlic in oil for about 3 minutes.\r\n\r\n2.  Add meat, salt and pepper and stir for another 3-5 minutes or until meat is completely cooked. \r\n\r\n3. Spread half the cabbage in a 2-quart baking dish and cover with all the meat mixture. \r\n\r\n4. Add remaining cabbage. Pour water, cover and bake for 1 hour.\r\n",
+                "ingredients": null,
+                "servings": 6,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "2008582f-918c-4418-b654-acce83e789d0",
+                    "50f7d5b7-244d-4917-90e5-cf2b9f7802d2",
+                    "433d4877-bc6c-46bd-883f-dec7d3dde879"
+                ],
+                "images": [
+                    {
+                        "uuid": "b14c05ed-b6b4-4bd5-b9de-697c31cfe717",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/b14c05ed-b6b4-4bd5-b9de-697c31cfe717.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "90bee52d-1640-42ec-b17a-54d7284ac60e",
+                "status": "active",
+                "visibility": "",
+                "name": "Balsamic Glazed Steak Rolls",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Rub each side of the steak slices with a little bit of oil. Sprinkle with salt, freshly ground black pepper and some chopped fresh rosemary. \r\n\r\n2. Heat one Tbsp of oil in a skillet over medium-high heat and cook the vegetables until crisp-tender, seasoning with salt and pepper. \r\n\r\n3. Place a few of the vegetable strips vertically on one end of each steak cutlet so that once rolled up the end of the vegetables are sticking out of each end of the steak roll. Roll it up, and secure it with a toothpick. Repeat for each steak roll. \r\n\r\n**For the rosemary balsamic glaze:**\r\n\r\n1.  Heat the oil in a small saucepan over medium-high heat. Add the garlic and cook for 1 minute, until fragrant. \r\n\r\n2. Add the balsamic vinegar, red wine, maple syrup and the rosemary sprigs and bring to a rapid boil. Reduce the heat and simmer uncovered for 5 minutes. \r\n\r\n3.Add the broth, return to a boil, reduce the heat to low and simmer for another 15 minutes. Discard the rosemary sprigs. \r\n\r\n**Preheat BBQ Grill medium-high heat.**\r\n\r\n4. Grill beef rolls on each side for about 2 minutes or according to desired doneness.  You can do the same if cooking them in a skillet.. Serve!* immediately drizzled with the rosemary balsamic glaze.*\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "79888616-6ce5-4332-8b5e-6d87a2b452c9",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/79888616-6ce5-4332-8b5e-6d87a2b452c9.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "94ce6af6-38a8-420f-a3ce-9ffbcc168bec",
+                "status": "active",
+                "visibility": "",
+                "name": "Balsamic Roast Beef",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Place roast beef into the insert of your slow cooker. \r\n\r\n2. In a 2 Cup measuring Cup, mix together all remaining ingredients.\r\n\r\n3. Pour over roast beef and set the timer for your slow cooker. 4 hours on High or 6-8 hours on Low.\r\n\r\n",
+                "ingredients": null,
+                "servings": 8,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "c8c77749-22be-451b-8185-25a360259ef7",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/c8c77749-22be-451b-8185-25a360259ef7.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "1fb3eff5-610d-46cd-99be-c572aa964580",
+                "status": "active",
+                "visibility": "",
+                "name": "Balsamic Steak and Mushroom Kebabs",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Season the steak chunks to taste with salt and freshly ground pepper. \r\n\r\n2. In a large bowl, combine the oil, balsamic vinegar, garlic, and fresh thyme. Add the steak and mushrooms to the bowl and gently mix until well coated. Cover and let marinate for 30 minutes. \r\n\r\n**Preheat your grill to medium-high heat.**\r\n\r\n\r\n3. Thread the beef and mushrooms alternately onto skewers, discarding marinade. Wood or metal skewers can be used.\r\n**If using wooden skewers, make sure you soak them in water before using so they do not burn.**\r\n\r\n4. Place the skewers on the grill and cook for 10 to 12 minutes, flipping every 2-3 minutes. ",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "13d07ca3-8b4e-4800-92cd-bf0b3461ed99",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/13d07ca3-8b4e-4800-92cd-bf0b3461ed99.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "c9fad404-7d73-44a3-8111-eaef3ed87bf0",
+                "status": "active",
+                "visibility": "",
+                "name": "Barbecued Steaks",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Pound steak on both sides with wooden mallet or the edge of a heavy plate. \r\n\r\n2. Combine lemon juice and mustard and spread over both sides of steak. Marinate in refrigerator for 4-5 hours. \r\n\r\n**Preheat BBQ coal grill.**\r\n\r\n3. Broil steaks about 4in. above glowing coals on BBQ grill 4-5 minutes on each side, or until desired degree of doneness is achieved.\r\n",
+                "ingredients": null,
+                "servings": 12,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "9966ac04-7a53-49f9-b01a-314a4357aa6e"
+                ],
+                "images": [
+                    {
+                        "uuid": "4031f346-b7c2-4c41-a45c-3fd4abf3b1c5",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/4031f346-b7c2-4c41-a45c-3fd4abf3b1c5.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "e02af7bc-cd4a-4c4c-be00-4005998b2eb4",
+                "status": "active",
+                "visibility": "",
+                "name": "BBQ Balsamic Marinated Steaks",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Mix all of the marinade ingredients together in a Ziploc bag or large dish with cover. Add steaks and marinate overnight.  \r\n\r\n**Preheat grill to medium heat.**\r\n\r\n1.  Add steak and cook 3-4 minutes on each side or until desired doneness.\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "5e8134ba-904a-4d3a-828f-a18ff8001a55",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/5e8134ba-904a-4d3a-828f-a18ff8001a55.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "ccd7492f-1e58-4ddf-bc85-8b7c50f70eff",
+                "status": "active",
+                "visibility": "",
+                "name": "BBQ Beef Fajitas",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. In a dish, mix together olive oil, Worcestershire, lime juice, garlic, cumin, chili powder, red pepper flakes, salt, pepper, and maple syrup until combined. \r\n\r\n2. Pour half of the marinade into a separate dish. In one dish, place the flank steak, turning it over to coat. \r\n\r\n3. In the second dish, place all the veggies, turning to coat. Cover the dishes with plastic wrap and place in the fridge for at least 2 hours.\r\n\r\n**Preheat BBQ at 375F Degrees.**\r\n\r\n4. Add vegetables in a BBQ skillet and cook for a few minutes, until they're cooked but still slightly firm and have nice black/brown pieces. Remove to a plate and set aside.\r\n\r\n5. Cook the meat for about 2-4 minutes per side or until desired doneness. Remove and allow to rest on a cutting board for 5 minutes. \r\n\r\n6. Warm pitas/tortillas on the BBQ.  \r\n\r\n7. Slice the meat right before serving and Serve with all the fixings.\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "c861014a-29da-4163-b23d-ec0df9dd9495",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/c861014a-29da-4163-b23d-ec0df9dd9495.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "36bcbe5f-3c3d-4b04-acc2-0e7e7d103835",
+                "status": "active",
+                "visibility": "",
+                "name": "BBQ Beef Spoonovers",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Saute ground beef with onion and green pepper until lightly browned. Drain off excess fat. \r\n\r\n2. Add all remaining ingredients. Mix well and simmer for 15 minutes and *Serve!*\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "9966ac04-7a53-49f9-b01a-314a4357aa6e"
+                ],
+                "images": [
+                    {
+                        "uuid": "ab333291-011e-404b-a16b-5dff11f97c05",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/ab333291-011e-404b-a16b-5dff11f97c05.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "9c714e38-7a4f-4f94-842c-dc9761656a44",
+                "status": "active",
+                "visibility": "",
+                "name": "BBQ Burgers with Balsamic Vinegar",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Preheat a large nonstick skillet over medium-low heat.** \r\n\r\n1. Add 2 tsp oil, onion and thyme, cook 10-15 minutes or until golden and very tender, stirring occasionally. \r\n\r\n2. Increase the heat to medium-high, add wine, vinegar, and 1/4 tsp salt. Cook for 5-6 minutes or until the liquid almost evaporates, stirring occasionally. Remove onion mixture from pan.\r\n\r\n3. Wipe pan clean with paper towels. Heat pan over medium-high heat. Add the remaining 2 tsp oil to pan and add mushrooms and 1/4 tsp salt, sauté for 8-10 minutes or until mushrooms brown and liquid mostly evaporates.\r\n\r\n**Preheat grill to medium-high heat**.\r\n\r\n1. Coarsely chop 1 Cup onion mixture, and stir chopped onion mixture into beef. \r\n\r\n2. Divide the beef mixture into 6 equal portions, gently shaping each into a 1-inch-thick patty. Place patties on a grill rack coated with oil, and grill for 5-6 minutes on each side or until done.\r\n\r\n3. Combine mayonnaise, cheese, and garlic in a bowl, and mash well with a fork. \r\n\r\n4. Spread the top halves of buns evenly with mayonnaise mixture. Arrange lettuce on bottom half of each bun, top each bottom half of bun with 1 patty, onions, mushrooms, and top half of bun.\r\n",
+                "ingredients": null,
+                "servings": 6,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "4cc57d8f-3eb0-47ad-ad1a-13500159d61c",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/4cc57d8f-3eb0-47ad-ad1a-13500159d61c.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "693a7625-5982-4739-8a7d-e5e82769035a",
+                "status": "active",
+                "visibility": "",
+                "name": "BBQ Grilled Spiced Tenderloin",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Preheat BBQ grill on high heat.**\r\n\r\n1. Combine first 5 ingredients in a small bowl. \r\n\r\n2. Rub spice mixture generously onto all sides of tenderloin. Grill tenderloin to desire doneness.\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "9966ac04-7a53-49f9-b01a-314a4357aa6e"
+                ],
+                "images": [
+                    {
+                        "uuid": "6964a9b3-89bb-4e6b-ba22-4bfb713d9fef",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/6964a9b3-89bb-4e6b-ba22-4bfb713d9fef.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "c9caa768-6568-4688-9107-1936cfaff6f8",
+                "status": "active",
+                "visibility": "",
+                "name": "BBQ Steak with Garlic Butter",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Combine all ingredients, except steak, until evenly mixed. \r\n\r\n**Preheat a BBQ grill on medium-high.**\r\n\r\n1. Brush both sides of the steak with oil to prevent it from sticking to the barbecue.\r\n\r\n2. Wait until just before cooking to season your steak, as salt draws out the flavorsome juices from the meat, making it tough. Season steaks with salt and pepper.\r\n\r\n3. Cook the steak on the barbecue until cooked to your liking. Cooking times vary depending on the thickness. Turn steak once only during cooking **anymore and the juices escape, which can make the meat tough.**\r\n\r\n4. Transfer the steak to a plate, add 1 Tbsp of garlic butter and cover with foil. ,Set aside for 5 minutes to rest. *Serve!*\r\n",
+                "ingredients": null,
+                "servings": 2,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "241752a6-2950-49ea-a11e-65162726bff9",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/241752a6-2950-49ea-a11e-65162726bff9.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "a9254738-3a30-44c5-88e2-146aaf8ccbc0",
+                "status": "active",
+                "visibility": "",
+                "name": "Beef and Broccoli",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Sprinkle beef with pepper, set aside.\r\n\r\n2. In small bowl, whisk together water, soy sauce and flour, set aside.\r\n\r\n3. In wok or skillet, heat oil over medium-high heat, stir-fry beef until browned but still pink inside, about 3 minutes. Transfer to plate.\r\n\r\n4. Add 1 Tbsp oil to wok, stir-fry broccoli florets, garlic and ginger for 1 minute. Cover and steam for 2 minutes.\r\n\r\n5. Return beef and any accumulated juices to wok. \r\n\r\n6. Add soy sauce mixture, stir-fry until slightly thickened, about 3 minutes. Add salt and pepper to taste. *Serve!*\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "82b022b6-672c-4257-b5b4-3ce932e57989",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/82b022b6-672c-4257-b5b4-3ce932e57989.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "45952033-6f1e-433b-aa55-1f50a472dbf0",
+                "status": "active",
+                "visibility": "",
+                "name": "Beef and Broccoli Stir Fry",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Heat oil in a skillet and add the prepared vegetables. Cook, stirring until veggies are crisp tender and onions are browned.\r\n\r\n2. Stir in the beef strips, cook until desired doneness.\r\n\r\n3.  In a small bowl, combine the remaining ingredients, stirring to dissolve the flour,adding to the beef mixture and cook stirring constantly until sauce has thickened, 2 -3 minutes.\r\n",
+                "ingredients": null,
+                "servings": 2,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "29be7ba1-a311-4aea-8ca6-1dd11430d042",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/29be7ba1-a311-4aea-8ca6-1dd11430d042.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "d4bd2e7d-da51-47bb-a8aa-7fbc5c4c125d",
+                "status": "active",
+                "visibility": "",
+                "name": "Beef and Eggplant Casserole",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. To make sauce, heat olive oil in a pan over high heat. Add meat and onion and cook until well browned and all the liquid has evaporated, about 10 minutes. \r\n\r\n2. Add tomato and bring to boil. Reduce heat to low and simmer, covered for 20 minutes, stirring occasionally. \r\n\r\n3. Remove lid, add parsley, salt and black pepper. Taste and adjust seasoning if necessary. Simmer for 10 more minutes and then set aside.\r\n\r\n**Preheat oven to 350F Degrees.**\r\n\r\n4. Cut the unpeeled eggplants into 1/2in. slices. Line a baking tray with parchment paper, arrange eggplant slices in a single layer, sprinkle with salt and bake for 15 minutes. Divide the eggplant slices into 3 equal parts. \r\n\r\n5. Place a layer of eggplant slices on the bottom of the ovenproof dish. Spread half of the meat sauce, add second layer of eggplant slices then the rest of the meat sauce and finish it with the last layer of eggplant slices. Bake for 30 minutes. \r\n\r\n6. Lightly beat eggs, pinch of salt and milk and pour over eggplants. Bake for another 10-15 minutes or until golden. Let it rest for 5 minutes.* Serve!*\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "951235f0-fa0e-4992-95df-2833484c3585",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/951235f0-fa0e-4992-95df-2833484c3585.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "83c6e664-709d-4c2a-8cfe-ce275db9a1f4",
+                "status": "active",
+                "visibility": "",
+                "name": "Beef and Sweet Potato Casserole",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Preheat the oven to 375F Degrees.**\r\n\r\n1. Chop, dice and mince all the veggies  and garlic. \r\n\r\n2. Melt butter in a very large skillet or heavy-bottomed pan and add all the vegetables except tomatoes and sweet potatoes. Season  with salt, toss together and cook until they are just about fork tender.  Remove from the pan and set aside.\r\n\r\n3. In the same pan, crumble in the  ground beef, top with taco seasoning, mix and brown.\r\n\r\n4. While the ground beef browns, shred the sweet potatoes using a food processor or a shredder and set in a large mixing bowl.\r\n\r\n5. Melt 1/2 Cup of coconut oil and pour over the shredded sweet potatoes while warm, toss immediately! The coconut oil will start to solidify again as  it cools, so work efficiently. Once the coconut oil is mixed well,  sprinkle the sweet potatoes with the onion powder, chili powder and  ground coriander. Mix together.\r\n\r\n6. Add the cooked vegetables and the diced tomatoes back into the pan with the beef, mix carefully to bring  everything together and cook for another 3 minutes or so. \r\n\r\n7. Transfer the vegetable/beef mixture to a large casserole dish. Top with the seasoned, shredded sweet potatoes, cover with foil and pop this in the oven.\r\n\r\n8. Bake 20-30 minutes, then remove the foil and broil on low for 5  minutes, or until the sweet potatoes have browned and crisped up a  bit. \r\n\r\n9. To *Serve*, top with fresh cilantro and sliced scallions with some  avocado and hot sauce on the side.\r\n",
+                "ingredients": null,
+                "servings": 8,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "9fddd776-b99d-45a8-8ca1-ba5c99a1be05",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/9fddd776-b99d-45a8-8ca1-ba5c99a1be05.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "0949093d-8a4f-4781-8a07-5b1827c84064",
+                "status": "active",
+                "visibility": "",
+                "name": "Beef and Zucchini",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Mix first 7 ingredients together, stir and set aside. \r\n\r\n2. Heat frying pan on medium-high. Add 1 tsp oil and cook beef strips until desired doneness. Sprinkle with salt and pepper. Transfer to bowl. \r\n\r\n3. Add 1 tsp oil to the same frying pan. Stir fry zucchini for 3-4 minutes or until tender crisp, add beef.\r\n\r\n4. Add tomato halves, stir in onion mixture until tender and *Serve!* \r\n\r\n*Sprinkle with Parmesan cheese if desired.*\r\n",
+                "ingredients": null,
+                "servings": 6,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [],
+                "favorite": false
+            },
+            {
+                "uuid": "5f1468b0-35bf-43f5-b207-88911e7fa417",
+                "status": "active",
+                "visibility": "",
+                "name": "Beef Ginger Stir Fry",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. In a small bowl, whisk together the sauce ingredients and set aside. \r\n\r\n2. In a wok, toast cashews on low-medium heat until golden brown, stirring frequently. Transfer to a small bowl and set aside. \r\n\r\n3. Return wok to medium to high heat and add 1 Tbsp sesame oil.  Add beef and cook until brown and crispy, for about 5 - 7 minutes, stirring frequently.\r\n\r\n4. Move beef to the side of the wok and add remaining sesame oil, bell peppers, zucchini and snow peas to the centre of the wok. Cook vegetables for 5 minutes, stirring frequently. , \r\n\r\n5. Stir beef and cashews into vegetables, pour the sauce over and cook until vegetables are tender and sauce thickens for 3 -5 minutes, stirring frequently. Garnish with green onions and *Serve!*\r\n",
+                "ingredients": null,
+                "servings": 2,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "5d1c8371-e249-4782-9a9b-5afd5ef3caad",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/5d1c8371-e249-4782-9a9b-5afd5ef3caad.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "f02875c7-67d1-48e1-a2a4-4ab62802acf9",
+                "status": "active",
+                "visibility": "",
+                "name": "Beef Souvlaki Kebabs with Tzatziki Sauce",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Chop steak into 1-inch pieces and set aside. Combine oil, garlic, oregano, salt, pepper, and lemon juice and stir to combine. Combine steak and marinade in a large zip lock bag, press as much as the air out as you can, and seal. Chill for 1 hour or up to 24 hours (the longer you marinate the more tender and flavorful the meat will be).\r\n\r\n2. Spread cucumber slices out on a paper towel. Sprinkle generously with salt on both sides and allow to rest for 5 minutes. Wrap cucumber slices in paper towels, squeeze excess liquid out, and transfer to a food processor or blender. \r\n\r\n3. Add remaining sauce ingredients to blender and pulse until smooth and creamy. Chill until ready to use.\r\n\r\n4. When ready to cook your kebabs, thread the steak pieces onto skewers and discard marinade. You can use metal or wooden skewers. ** If using wooden skewers, soak them in water before using so they do not burn.**\r\n\r\n5. Grill over medium-high heat for 10-12 minutes, rotating throughout to ensure even cooking. Alternately you can bake them in a large baking dish arranged in a single layer at 400F Degrees for 20-30 minutes until cooked through. \r\n\r\n6. Garnish with chopped oregano and *Serve* immediately with prepared tzatziki sauce.\r\n\r\n",
+                "ingredients": null,
+                "servings": 6,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "f8ff2fa9-7b78-438b-b736-16a6eb89b043",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/f8ff2fa9-7b78-438b-b736-16a6eb89b043.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "15dc99f9-1a42-43ce-ae3e-8eae175a5116",
+                "status": "active",
+                "visibility": "",
+                "name": "Beef Stir Fry",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Heat skillet at medium-high heat. Add oil beef cubes and cook for 3-4 minutes.\r\n\r\n2.  Add vegetables and cook for another 3-4 minutes, and then add soy sauce, beef broth, pepper, lemon juice. Cook for another 5-10 minutes or until sufficiently cooked.\r\n",
+                "ingredients": null,
+                "servings": 6,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "8f3e376a-5b5b-4777-a77b-fab32b926c02",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/8f3e376a-5b5b-4777-a77b-fab32b926c02.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "cf046d23-93af-47a6-a3b8-1a2a38f8f524",
+                "status": "active",
+                "visibility": "",
+                "name": "Beef Taco Skillet",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Heat large skillet to medium-high heat. Add beef.  Break up and brown beef, drain excess fat once beef is browned. \r\n\r\n2. Add in veggies and seasonings and cook until onions are translucent about 8-10 minutes. \r\n\r\n3.  Top evenly with cheese and cilantro. *Serve* and *Enjoy!*\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [],
+                "favorite": true
+            },
+            {
+                "uuid": "921ab185-81dc-4b02-9598-316473ad5a5e",
+                "status": "active",
+                "visibility": "",
+                "name": "Beef Taco Zucchini Boats",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Preheat oven to 400F Degrees.**\r\n\r\n1. Using a small spoon or melon baller, hollow out the center of the zucchini halves, leaving 1/4-inch thick shell on each half. Chop the scooped out flesh of the zucchini in small pieces and set aside 3/4 Cup to add to the taco filling, (squeeze excess water with a paper towel) discarding the rest or save to use in another recipe. \r\n\r\n2. Drop zucchini halves in boiling water and cook 1 minute. Remove from water.\r\n\r\n3. In a large skillet, brown beef, breaking up while it cooks. When no longer pink add the spices and mix well. \r\n\r\n4. Add the onion, bell pepper, reServed zucchini, tomato sauce and water. Stir and cover, simmer on low for about 20 minutes.\r\n\r\n5. Spread 1/4 Cup of salsa in the bottom of a large baking dish. \r\n\r\n6. Using a spoon, fill the hollowed zucchini boats dividing the taco meat equally, about 1/3 Cup in each, pressing firmly.\r\n\r\n7.  Top each with 1 Tbsp of shredded cheese. Cover with foil and bake for 35 minutes until cheese is melted and zucchini is cooked through. \r\n\r\n8. Top with scallions and *Serve* with remaining salsa on the side.\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "2e5b52b2-7878-498b-a3c4-3e64f6ee533a",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/2e5b52b2-7878-498b-a3c4-3e64f6ee533a.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "3d0450ac-596a-49bc-b575-8102814b6f62",
+                "status": "active",
+                "visibility": "",
+                "name": "Beef Tenderloin with Balsamic Tomatoes",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. In a small saucepan bring vinegar to a boil. Reduce heat, simmer uncovered for 5 minutes or until reduced to 1/4 Cup. \r\n\r\n2. Stir tomatoes into hot vinegar reduction.\r\n\r\n3. Meanwhile, sprinkle steak with salt and pepper. In a large skillet heat oil over medium-high heat. Add steaks, reduce heat to medium. Cook to desired doneness, turning once. \r\n\r\n4. Spoon vinegar reduction over steaks. Sprinkle with thyme and *Serve!*\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "a5e7826f-6555-4df4-949c-6d9a7b1c021e",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/a5e7826f-6555-4df4-949c-6d9a7b1c021e.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "ec8cee36-aea1-4a7d-b469-f0c600dfe966",
+                "status": "active",
+                "visibility": "",
+                "name": "Beef Tenderloin with Red Pepper Sauce",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. In a large skillet, heat oil to medium-high heat. Rub tenderloin evenly with garlic powder and pepper. Add tenderloin to skillet, cook 2-3 minutes on each side or until desired doneness. \r\n\r\n2. Meanwhile, combine beef broth, lemon juice, crushed red pepper and roasted peppers in a blender or food processor, until smooth. *Serve* tenderloin with sauce and garnish with parsley.*\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [],
+                "favorite": false
+            },
+            {
+                "uuid": "4e9200fa-ea6f-497f-a029-2c5dd5d744d1",
+                "status": "active",
+                "visibility": "",
+                "name": "Beef Teriyaki",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. In a baking dish, combine all ingredients, except beef, and mix well.\r\n\r\n2. Add beef and marinate for at least 20 minutes or even overnight. \r\n\r\n**Preheat grill at medium-high heat.**\r\n\r\n Add beef to grill, cook for 3-4 minutes on each side basting with remaining marinade. Cook beef until desired doneness.\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "9966ac04-7a53-49f9-b01a-314a4357aa6e"
+                ],
+                "images": [
+                    {
+                        "uuid": "344c0edf-256f-4f4d-af90-1fbfd5f4d360",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/344c0edf-256f-4f4d-af90-1fbfd5f4d360.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "04e248a5-2e73-4f84-9dfa-3d9eccb30d6b",
+                "status": "active",
+                "visibility": "",
+                "name": "Beef with Mushrooms and Onions",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Preheat oven to 350F Degrees.**\r\n\r\n1. Toss beef chuck with the pressed garlic cloves, black pepper, salt, paprika and the olive oil until the meat is evenly coated.\r\n\r\n2. Transfer to an oven proof baking dish and add carrot pieces in between the meat pieces. Top with the bay leaves. Cover with and bake for 1 1/2 hours  or until the meat pieces are tender and almost fall apart.\r\n\r\n3. Meanwhile sauté the onions with a couple Tbsp of oil or organic butter in over medium heat until golden in color. When done, tilt the skillet and allow the oil to pool at the bottom, while you remove the onion to a separate dish.\r\n\r\n4. To the same skillet add the mushrooms, cut side down. Over high heat sear the mushrooms on both sides. Then, sprinkle with salt, cover with lid and continue cooking for about 5-10 minutes, tossing from time to time.\r\n\r\n5. Once the beef is soft and easily pierced with a fork, sprinkle with caramelized onions and the mushrooms and bake for another 15 minutes to allow the mushrooms to heat through. This is when you can add 1/2 Cup of red or white wine to the baking dish to enhance flavor.\r\n\r\n6. Now gently mix everything together, sprinkle with parsley and *Serve!*\r\n\r\n",
+                "ingredients": null,
+                "servings": 8,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "f3b808fa-2b26-4a7d-b3ff-caeff06c8df9",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/f3b808fa-2b26-4a7d-b3ff-caeff06c8df9.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "5871adee-c846-44a1-9030-a040ee3aec07",
+                "status": "active",
+                "visibility": "",
+                "name": "Beef Zucchini Lasagna",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Brown the ground beef in a large pot over medium heat, stirring frequently.\r\n\r\n2. Add in garlic, onion and green pepper, and continue to sauté for 5 minutes.\r\n\r\n\r\n3. Stir in tomato paste and tomato sauce. Add in parsley, basil, oregano, salt and pepper, continue to stir. Bring sauce to a light boil, then remove from heat.\r\n\r\n**Preheat oven to 325F Degrees.**\r\n\r\n4. Grease a 9x13in. baking dish with coconut oil or organic butter. Place a thin layer (1/2 inch) of the sauce in the baking dish. Layer zucchini and mushrooms over sauce, and repeat, alternating layering of sauce, then zucchini and mushrooms. Top with cheese.\r\n\r\n5. Bake for 15 minutes, covered with foil. After 15 minutes, remove foil, increase temperature to **350F Degrees**  and bake for an additional 15 minutes.\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 6,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "bbf04ff5-bbc0-4e0b-8722-1b33cf9d9fa6",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/bbf04ff5-bbc0-4e0b-8722-1b33cf9d9fa6.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "4da5599e-af12-4cf3-b952-2b76b2812ace",
+                "status": "active",
+                "visibility": "",
+                "name": "Beef, Cashews and Veggie Stir Fry",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. In a small bowl, whisk together sauce ingredients and set aside.\r\n\r\n2. In a wok, toast cashews on low-medium heat until golden brown, stirring frequently. Transfer to a small bowl and set aside.\r\n\r\n3. Return wok to medium - high heat and add 1 Tbsp sesame oil. Add beef and cook until brown and crispy, for about 5 - 7 minutes, stirring frequently.\r\n\r\n4. Move beef to the side of the wok and add remaining sesame oil and vegetables to the wok. Cook vegetables for 5 minutes, stirring frequently. \r\n\r\n5. Stir beef and cashews into vegetables, pour the sauce over and cook until vegetables are tender and sauce thickens, for 3 -5 minutes, stirring frequently. \r\n\r\n6. Garnish with green onions and *Serve!* \r\n",
+                "ingredients": null,
+                "servings": 6,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [],
+                "favorite": true
+            },
+            {
+                "uuid": "99ee01c6-4afd-4539-846c-02dd9fa5449f",
+                "status": "active",
+                "visibility": "",
+                "name": "Cabbage Rolls",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Pour boiling water over cabbage, cover and let stand for 1/2 hour. \r\n\r\n2. Drain cabbage, core and separate leaves, reserving 12 for stuffing. Chop remaining cabbage for sauce.\r\n\r\n\r\n**Stuffing:**\r\n\r\n1. Mix ground meat, onion, parsley, eggs, salt and tomato sauce together.\r\n\r\n\r\n**To Stuff:** \r\n\r\n1. Use 12 leaves. \r\n\r\n2. Put 3 Tbsp of meat mixture in centre of each leaf. Bring sides up over filling and roll leaf up. Set aside.\r\n\r\n\r\n**Sauce:**\r\n\r\n1. Heat water in medium size pot. Bring to boil. Add chopped cabbage, tomato sauce, salt, lemon juice, and honey. Reduce heat, cover and simmer for 15 minutes. \r\n\r\n2. Remove 1 Cup sauce and set aside. \r\n\r\n3. Place cabbage rolls in a pot with remaining sauce as close together as possible. Pour reserved sauce over cabbage rolls. Cover. Simmer for 1 1/2 hour.\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "b5895249-13c1-40da-8be3-4c2f5e65fc85",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/b5895249-13c1-40da-8be3-4c2f5e65fc85.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "e25c1c50-26c9-4ab6-a070-be5ef2139a7b",
+                "status": "active",
+                "visibility": "",
+                "name": "Curried Beef (Slow Cooker)",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. In a skillet over medium heat, brown the beef on all sides. Remove from skillet, reserving juices, and season with salt and pepper.\r\n\r\n2. Cook and stir the garlic, ginger, and jalapeno in the skillet for 2 minutes, until tender, and season with curry powder. \r\n\r\n3. Mix in the diced tomatoes and juice. \r\n\r\n4. Place the onion in the bottom of a slow cooker, and layer with the browned beef. Scoop the skillet mixture into the slow cooker, and mix in the beef broth. Cover and cook 6-8 hours on Low.\r\n",
+                "ingredients": null,
+                "servings": 5,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "dd2d3006-c608-4a8a-aa61-bbc3bfd8db9a",
+                    "644580ab-849e-416d-a5fe-4e9b80102194"
+                ],
+                "images": [
+                    {
+                        "uuid": "25abd59a-ebb2-4559-bbf0-5482f0351fd8",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/25abd59a-ebb2-4559-bbf0-5482f0351fd8.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "cde82ab0-8738-451b-b788-d3d4ca8a4bdb",
+                "status": "active",
+                "visibility": "",
+                "name": "Curried Mustard Slow Cooker Beef Roast",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Place potatoes, carrots and onion in slow cooker and add broth. Sprinkle with pepper. \r\n\r\n2. In small bowl, whisk together mustard, curry, thyme and oregano and spread over roast. \r\n\r\n3. Place the roast on top of vegetables.\r\n\r\n4. Cover and cook on Low for 8-10 hours or until meat and vegetables are very tender. \r\n\r\n5. Remove roast to cutting board and slice thinly. \r\n\r\n6. Scoop out veggies using slotted spoon onto platter and top with meat. Cover with foil to keep warm. \r\n\r\n7. Pour juices into small saucepan. In small bowl, whisk together water and flour to form smooth paste and pour into juices. Bring to boil, whisking constantly until slightly thickened. \r\n*Serve* with or pour over meat and vegetables.\r\n",
+                "ingredients": null,
+                "servings": 6,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "644580ab-849e-416d-a5fe-4e9b80102194"
+                ],
+                "images": [
+                    {
+                        "uuid": "7dbd18f5-b8c9-45d4-b4e3-c8de293b49a7",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/7dbd18f5-b8c9-45d4-b4e3-c8de293b49a7.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "1beb7916-1fcd-4a8f-8cf5-b52412a210a6",
+                "status": "active",
+                "visibility": "",
+                "name": "Easy 5 ingredient Slow Cooker Beef Fajitas",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Add salsa to bottom of the slow cooker. \r\n\r\n2. Add beef, onion, bell pepper and fajita seasoning. Stir to mix well.\r\n\r\n3. Cook on low 6-8 hours or on high for 3-4 hours.\r\n",
+                "ingredients": null,
+                "servings": 5,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "644580ab-849e-416d-a5fe-4e9b80102194"
+                ],
+                "images": [
+                    {
+                        "uuid": "6129d331-1567-432d-8860-92869688c9cc",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/6129d331-1567-432d-8860-92869688c9cc.jpeg"
+                    }
+                ],
+                "favorite": true
+            },
+            {
+                "uuid": "ec8037a5-6fa5-4a07-a71c-20890f85b2a5",
+                "status": "active",
+                "visibility": "",
+                "name": "Easy Baked Meatballs",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Preheat oven to 400F Degrees.**\r\n\r\n1. Lightly grease a large cookie sheet with oil.\r\n\r\n2. Mix together onion, bread crumbs, garlic, egg, cheese, ketchup, salt, pepper and parsley in a large mixing bowl. \r\n\r\n3. Add in ground beef and mix gently until combined. **Do not overwork.** \r\n\r\n4. Form into 1in balls and place on prepared cookie sheet.\r\n\r\n5. Bake for 15-20 minutes, or until meatballs are browned and cooked through.\r\n\r\n*Makes approximately 30 meatballs.*\r\n",
+                "ingredients": null,
+                "servings": 6,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "6640cdf3-492b-4d33-90f3-df9b84c00b86",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/6640cdf3-492b-4d33-90f3-df9b84c00b86.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "1c097396-ab1a-495b-9acd-83146fc1649b",
+                "status": "active",
+                "visibility": "",
+                "name": "Easy Flavorful Roast Beef",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Remove the beef from the fridge 30 minutes before you want to cook it, to let it come up to room temperature.\r\n\r\n**Preheat the oven to 475F Degrees.**\r\n\r\n1. Wash and roughly chop the vegetables (there's no need to peel them). \r\n\r\n2. Break the garlic bulb into cloves, leaving them unpeeled. Pile all the veg, garlic and herbs into the middle of a large roasting tray and drizzle with oil. \r\n\r\n3. Drizzle the beef with oil and season well with sea salt and black pepper, then rub all over the meat. Place the beef on top of the vegetables.\r\n\r\n4. Place the tray in the oven, then turn the heat down immediately to **400F Degrees** and cook for 1 hour for medium beef. If you prefer it medium-rare, take it out 5-10 minutes earlier. For well done, leave it in for another 10-15 minutes. \r\n\r\n5. Baste the beef halfway through cooking. If the veg look dry, add a splash of water to the tray to stop them from burning.\r\n\r\n6. When the beef is cooked to your liking, take the tray out of the oven and transfer the beef to a board to rest for 15 minutes or so and cover it. \r\n\r\n*Slice and Enjoy!*",
+                "ingredients": null,
+                "servings": 10,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "dd2d3006-c608-4a8a-aa61-bbc3bfd8db9a"
+                ],
+                "images": [
+                    {
+                        "uuid": "d492502e-5398-4395-a814-3f3b34f8b3f7",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/d492502e-5398-4395-a814-3f3b34f8b3f7.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "ee6fa0f6-a65c-4461-b45f-c8167b2c7c63",
+                "status": "active",
+                "visibility": "",
+                "name": "Easy Healthy Taco Salad",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Heat oil in a skillet over medium-high heat. Add ground beef. Stir fry, breaking up the pieces with a spatula, for about 7-10 minutes or  until the beef is browned and moisture has evaporated. \r\n\r\n2. Stir taco seasoning into the ground beef until well combined.\r\n\r\n3. Meanwhile, combine all remaining ingredients in a large bowl. Add the ground beef. Toss everything together. *Serve!*\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "433d4877-bc6c-46bd-883f-dec7d3dde879"
+                ],
+                "images": [
+                    {
+                        "uuid": "2a63cb90-3b03-4cb4-8d9c-8ce734f76571",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/2a63cb90-3b03-4cb4-8d9c-8ce734f76571.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "9903a42e-af62-47b1-bdfc-6d2360d38627",
+                "status": "active",
+                "visibility": "",
+                "name": "Easy One Pan Beef and Coleslaw Mix",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Heat oil in large skillet to medium-high heat. Sauté garlic 1-2  minutes. \r\n\r\n2. Add ground beef and cook 5-6 minutes until beef is almost  cooked. \r\n\r\n3.  Add coleslaw mix and stir. Cook another 5-6 minutes until the coleslaw is nice and tender. \r\n\r\n4.  Add remaining ingredients, stir and cook 4-7 minutes for flavors to come together. \r\n\r\n5. Garnish with chopped green  onions and *Serve!*\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 2,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [],
+                "favorite": false
+            },
+            {
+                "uuid": "273a025b-205f-4ea5-a45d-cee5fa8b1f22",
+                "status": "active",
+                "visibility": "",
+                "name": "Flank Steak with Spicy Avocado Salsa",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Combine all salsa ingredients and stir gently until evenly combined, set aside. \r\n\r\n**Preheat BBQ grill on medium-high heat.**\r\n\r\n2. Combine the steak ingredients in a small bowl and set aside.\r\n\r\n3. Dry the flank steak with paper towels, and rub the spice mixture onto both sides. Cook until the flank steak starts to firm, about 4 minutes per side or until desired doneness. \r\n\r\n4. Remove the steak from the grill, cover with aluminum foil, and let rest 5 minutes before slicing against the grain. \r\n\r\n5. Arrange onto a platter, and top with salsa and *Serve!*\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "e63ca038-91f1-4303-a8a3-669d9453a201",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/e63ca038-91f1-4303-a8a3-669d9453a201.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "2b5c7a5f-c224-45f6-bdd9-d5fecb8290f2",
+                "status": "active",
+                "visibility": "",
+                "name": "Garlicky Barbecued Steaks",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1.In a medium baking dish, combine oil, garlic and thyme.\r\n\r\n2. Add steaks, turn to coat and cover. Refrigerate and let marinate for 1 hour or overnight. \r\n\r\n3. Heat grill to medium-high heat. Remove steaks from marinade and discard. \r\n\r\n4.Place steak on grill, cover and cook until desired doneness\r\n",
+                "ingredients": null,
+                "servings": 2,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "5b5192d7-d376-43e7-8943-48bc21ddd6dc",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/5b5192d7-d376-43e7-8943-48bc21ddd6dc.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "91af17b5-a41a-4539-9e1d-f115bd80b0b5",
+                "status": "active",
+                "visibility": "",
+                "name": "Gingered Beef",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. In a large frying pan, heat oil over moderate heat. Sautee the onions until translucent, about 5-7 minutes. \r\n\r\n2. Add garlic and ginger and cook for another 2-3 minutes.\r\n\r\n3. In a small bowl, combine the coriander, cumin, red pepper flakes, turmeric and water. Add the mixture to the frying pan and cook stirring for another minute.\r\n\r\n4.  Add beef to the frying pan and cook until desired readiness about 3-5 minutes.\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "dd2d3006-c608-4a8a-aa61-bbc3bfd8db9a"
+                ],
+                "images": [
+                    {
+                        "uuid": "9b5425b5-21c3-4e72-a817-68acf126062d",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/9b5425b5-21c3-4e72-a817-68acf126062d.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "968984ab-73cd-43e3-aece-afb3a4061eeb",
+                "status": "active",
+                "visibility": "",
+                "name": "Gingery Beef and Broccoli",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. In a large skillet, heat oil over medium-high heat. Add pepper, ginger and garlic and stir for 2 minutes. \r\n\r\n2. Add beef and cook until browned.\r\n\r\n3.  Mix in broth, soy sauce and honey. Add the broccoli and stir to cover with sauce. Lower heat to medium. Cover and cook until the broccoli is tender.\r\n",
+                "ingredients": null,
+                "servings": 2,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "81cf137b-a4c1-4f4b-bc61-23fd19837992",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/81cf137b-a4c1-4f4b-bc61-23fd19837992.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "0eb35f60-2db9-4d3b-8b9b-821be1286624",
+                "status": "active",
+                "visibility": "",
+                "name": "Grass Fed Beef & Garbanzo Bean Burgers",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Preheat the grill to high.**\r\n\r\n1. In a mini food processor add the garlic, sundried tomatoes and parsley. Process until ingredients are well combined.\r\n\r\n2. Place the beans in a large bowl and mash with a potato masher (clean hands will also work just fine.) \r\n\r\n3. Add in the garlic-tomato and parsley mixture.\r\n\r\n4. Add the beef, shallots, cumin and salt and pepper. Mix well.\r\n\r\n5. Form the meat into 6 1/4-inch thick burgers. Season the meat again with salt and pepper on both sides. Grill for 2-3 minutes on both sides or until desired doneness. Place burgers on buns and spread with mashed avocado.",
+                "ingredients": null,
+                "servings": 6,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "cef8d6c2-2974-40eb-99c5-9c26713f5ce2",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/cef8d6c2-2974-40eb-99c5-9c26713f5ce2.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "9a6701d1-088f-4d6c-ab6f-27002d4d6a69",
+                "status": "active",
+                "visibility": "",
+                "name": "Grilled Caprese Filets Mignons",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Balsamic reduction:** \r\n\r\n1. Stir balsamic vinegar and honey together in a small saucepan and place over high heat. Bring to a boil, reduce heat to low, and simmer until the vinegar mixture has reduced to 1/3 Cup, about 10 minutes. Set the balsamic reduction aside to cool.\r\n\r\n**Preheat grill to high.**\r\n\r\n1. Season filets with salt and pepper and lightly brush with olive oil. \r\n\r\n2. Place steaks on grill, reduce heat to medium. Cover and cook for 5 minutes per side. Reduce to low. \r\n\r\n3. Top with 1 tomato slice, 1 basil leaf, 1 slice mozzarella, another basil leaf, and another slice of tomato. Close the cover and grill for another 3-5 minutes or  to desired doneness.\r\n\r\n4. Remove from heat to a platter, let rest for at least 5 minutes, drizzle with olive oil and reduced balsamic vinegar before serving. *Enjoy!*\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "5a2a8f0f-7cfd-4912-b122-ffe9837b6e33",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/5a2a8f0f-7cfd-4912-b122-ffe9837b6e33.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "7cd64250-b667-4852-8a7b-3c4c27db0461",
+                "status": "active",
+                "visibility": "",
+                "name": "Grilled Rosemary Steak",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Combine minced rosemary, garlic, oil, lemon juice, lemon peel and pepper in a small bowl. Rub mixture onto steaks. Cover and refrigerate at least 15 minutes. \r\n\r\n**Preheat BBQ Grill.**\r\n\r\n2. Grill steaks over medium-high heat.\r\n\r\n3. Cook about 4-5 minutes or until desired doneness. \r\n\r\n*Garnish with rosemary sprigs and Serve*\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "51482c36-77d4-4005-a2a4-701fe547c9b6",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/51482c36-77d4-4005-a2a4-701fe547c9b6.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "52ea528b-22f0-4b87-b388-9243da47732e",
+                "status": "active",
+                "visibility": "",
+                "name": "Grilled Steak Lettuce Tacos",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Combine the salt, cumin, garlic powder, oregano and black pepper. Rub over the steak. \r\n\r\n**Preheat BBQ grill over high heat.**\r\n\r\n2. Clean grates and spray with oil. Cook the steaks for  2-3 minutes on each side, until the steak is cooked to your liking. Set aside on a cutting board to rest 5 minutes before slicing. Slice into thin strips.\r\n\r\n3. To *Serve* fill each lettuce Cups with 1/2 Tbsp guacamole and top with steak and pico de gallo.\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "6a3257c2-3bb1-4c5a-8472-4985248594db",
+                        "title": "",
+                        "mimetype": "image/png",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/6a3257c2-3bb1-4c5a-8472-4985248594db.png"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "f93fa369-7a6d-4ba0-907b-74125251062e",
+                "status": "active",
+                "visibility": "",
+                "name": "Hamburg and Cauliflower Casserole",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Preheat the oven to 350F degrees.**\r\n\r\n1. Cut the cauliflower into florets and discard the core. Cut the cauliflower into even smaller and more uniform pieces. Place a steamer pot over medium heat with a few inches of water. Add the cauliflower into the top and season with salt. Steam the cauliflower until el dente (barely cooked) and then remove it from heat and set aside uncovered. \r\n\r\n2. Place the ground beef in a frying pan over medium heat and season liberally with salt and pepper, cumin, paprika, and oregano. Break up the beef into small pieces with a spatula while cooking. When the meat is mostly cooked, remove it from the heat and set aside. \r\n\r\n3. Beat the eggs, cream and broth together with a pinch of salt and pepper in a bowl. \r\n\r\n4. In a casserole pan layer the cauliflower and ground beef until it is used up. Pour the egg mixture over it, making sure the meat and cauliflower is covered. Bake the casserole for 40 to 45 minutes until the center is set.\r\n\r\n5. Add the sliced almonds and broil for 2-3 minutes. Let it cool for 5 minutes then *Serve* and *Enjoy!*\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "7c0d2ff2-265c-4efe-86ea-3098b40abf4e",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/7c0d2ff2-265c-4efe-86ea-3098b40abf4e.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "627ed4e0-bf28-4ff6-8ea6-fa52c1c523f8",
+                "status": "active",
+                "visibility": "",
+                "name": "Herbed Pot Roast",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Lightly grease large skillet with olive oil and place over medium-high heat. Add roast and brown on all sides, about 5 minutes each side. Place browned roast in crock-pot.\r\n\r\n2. Add onion to skillet and cook for 4-5 minutes or until golden.\r\n\r\n3. Add paprika, basil, oregano, thyme and garlic and cook another 2-3 minutes. \r\n\r\n4. Add onion mixture over roast in crock-pot. Add water, wine, broth and pepper to crock-pot. \r\n\r\n5. Cover and cook on low heat for 10 hours. \r\n\r\n6. Remove roast from crock-pot and set on cutting board. Slice and *Serve* and top with a spoonful of broth if desired.\r\n",
+                "ingredients": null,
+                "servings": 10,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "761a12cb-2a44-4732-b982-dfd571c13a84",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/761a12cb-2a44-4732-b982-dfd571c13a84.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "c40185fe-fdd8-46b1-89b3-edb7a6c5c80b",
+                "status": "active",
+                "visibility": "",
+                "name": "Italian Meatballs",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Preheat Oven to 350F Degrees.**\r\n\r\n1.Mix all ingredients together in a large bowl. \r\n\r\n2. Make into golf ball size balls and bake for 30 - 40 minutes. \r\n\r\n**Mix in with your favorite tomato sauce.**\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "a53db14e-7be4-4581-8dff-d95d07ce73cc",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/a53db14e-7be4-4581-8dff-d95d07ce73cc.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "7cbde97e-1a78-450d-bb0c-b860f32a0dc5",
+                "status": "active",
+                "visibility": "",
+                "name": "Juicy Beef Tenderloin",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Place beef in a resealable plastic bag. \r\n\r\n2. Whisk together Worcestershire sauce, lemon juice, garlic, salt, pepper, and oil, and pour over beef. Tightly seal bag, and let beef marinate at room temperature 2 hours, turning bag occasionally.\r\n\r\n**Preheat broiler**\r\n\r\n3. Put the oven rack 4 inches from heat source. \r\n\r\n4. Transfer beef and marinade to a heavy oven-safe skillet just large enough to hold the beef. Spread 2 Tbsp butter over top of beef, broil 8 minutes. Remove from oven, turn beef with tongs, and spread remaining 2 Tbsp butter on top. \r\n\r\n5. Broil 5 minutes more. Remove from oven, and cover skillet tightly with foil. Let beef in skillet rest 45 minutes. Thinly slice, and transfer to a serving platter. *Serve* with pan juices.\r\n",
+                "ingredients": null,
+                "servings": 9,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "639561ea-7547-480b-bdf8-94aa6a60b06a",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/639561ea-7547-480b-bdf8-94aa6a60b06a.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "33de5b90-3323-4df6-ab49-68aa63c568d6",
+                "status": "active",
+                "visibility": "",
+                "name": "Juicy Steak Marinade",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Add all ingredients into a freezer bag and mix well. \r\n\r\n2. Add meat and marinate in the fridge for minimum of 6-8 hours before grilling.\r\n\r\nPreheat great at medium high heat. Grill steak 3-4 minutes per side or until desired doneness. \r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "98f0e050-d61b-4174-b1fe-c5618361675e",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/98f0e050-d61b-4174-b1fe-c5618361675e.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "7d2efdda-4f30-49a6-a963-300e5de7b335",
+                "status": "active",
+                "visibility": "",
+                "name": "Ken’s Knockout Chilli",
+                "description_short": "",
+                "description_long": "",
+                "directions": "\n1. Cook beef fully in a large pot.\n2. Add all other ingredients.\n3. Simmer on low for 15-30 minutes.\n4. Enjoy!\n\nFeel free to add a little fat to your chilli with avocado, shredded cheese, or a dollop of Greek yogurt/sour cream.",
+                "ingredients": [],
+                "servings": 6,
+                "rating": null,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "4b801b13-3728-4430-8b8f-b187c18c12d8",
+                    "a55021c0-f71a-4fcd-94be-ba85e4a8b1cf"
+                ],
+                "images": [
+                    {
+                        "uuid": "de09267c-5f7e-4f36-bb0f-d842f9435213",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/de09267c-5f7e-4f36-bb0f-d842f9435213.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "2ca32315-001e-4269-9bc4-950552b49818",
+                "status": "active",
+                "visibility": "",
+                "name": "Lamb Tenderloins with Rosemary and Peppercorns",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Place lamb in shallow dish or resealable plastic bag. \r\n\r\n2. In small bowl, combine peppercorns, rosemary, mint, garlic, sherry, and soy sauce, mix well and pour over lamb. Cover and marinate at room temperature for 30 minutes or refrigerate for at least 1 hour or up to 6 hours.\r\n\r\n**Preheat grill or oven Medium heat.**\r\n\r\n3. Remove from marinade. Broil or grill over medium heat 3-4 minutes for tenderloins, 6 minutes for loins or until meat is pink inside, turning once or twice. Cut diagonally into thin slices.\r\n",
+                "ingredients": null,
+                "servings": 5,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "a5108970-0edc-40d4-8829-1b5cd1dafcde",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/a5108970-0edc-40d4-8829-1b5cd1dafcde.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "137dd917-f98e-45b3-8557-00ddd0572f8d",
+                "status": "active",
+                "visibility": "",
+                "name": "Marinated Steak",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Mix all ingredients together in a bowl or in a re-sealable plastic bag. Add steak to the marinade and refrigerate for at least 1 hour or overnight. \r\n\r\n**Preheat the grill.**\r\n\r\n2. Grill the steak for 4-8 minutes on each side, basting frequently. Grill until desired doneness.\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "092c3add-88d3-4854-81e2-895d700235d0",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/092c3add-88d3-4854-81e2-895d700235d0.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "8096b689-9db7-4ed4-892a-e130f5d3f01e",
+                "status": "active",
+                "visibility": "",
+                "name": "Meatballs",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Preheat oven at 375F Degrees.**\r\n\r\n1. Mix all ingredients together except for crackers.\r\n\r\n2. Mold ground beef into meatballs **makes approximately 16-20** and roll them through the crumbled crackers. \r\n\r\n3. Place meatballs in a casserole dish and cook for 20-25 minutes.\r\n",
+                "ingredients": null,
+                "servings": 6,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [],
+                "favorite": false
+            },
+            {
+                "uuid": "600893c1-dc3e-4663-9ad3-5d874855e317",
+                "status": "active",
+                "visibility": "",
+                "name": "Meatballs in Tasty Tomato Sauce",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**To prepare meatballs:**\r\n\r\n1. Combine first 9 ingredients in a bowl, shape meat mixture into 30 meatballs. \r\n\r\n2. Heat a large nonstick skillet over medium-high heat. Add half of the meatballs to pan, cook 3 minutes or until browned, stirring frequently. Place browned meatballs in slow cooker. Repeat procedure with remaining 15 meatballs.\r\n\r\n**To prepare sauce:**\r\n\r\n1. Combine tomato paste and the next 7 ingredients. \r\n\r\n2. Add to slow cooker, stirring gently to coat. Cover and cook on low for 6 hours. *Serve!*\r\n\r\n",
+                "ingredients": null,
+                "servings": 30,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "40c8bf4a-ef14-474d-8579-6324bb87978f",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/40c8bf4a-ef14-474d-8579-6324bb87978f.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "1cdd938f-0c35-443c-a163-2fccc2be388b",
+                "status": "active",
+                "visibility": "",
+                "name": "Meatloaf",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Preheat oven to 350F Degrees.**\r\n\r\n1. Put the bread crumbs in a small bowl and cover with the milk. Set aside.\r\n\r\n2.  Put the meat in a large bowl. Saute the onions and green pepper in skillet at medium heat. Cook gently for about 3-4 minutes or until soft, stirring often. \r\n\r\n3. Add the sauteed pepper and everything else but the salsa to the meat and mix it lightly with your hands. Shape the meat into a loaf or two, put into a baking pan and spread the salsa over the top. \r\n\r\n4. Bake the loaf for 1 hour and 15 minutes. Remove from the oven and let rest for 10 minutes before slicing.\r\n",
+                "ingredients": null,
+                "servings": 8,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "711e02ff-2363-446b-8176-9aaa70179a87",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/711e02ff-2363-446b-8176-9aaa70179a87.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "e2a4d57a-3fd8-4fe2-9f7d-c325a25995e5",
+                "status": "active",
+                "visibility": "",
+                "name": "Mexican Beef Skillet",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Brown ground beef with minced garlic, salt, and pepper. Cook over medium heat until meat is cooked. \r\n\r\n2. Add tomatoes and remaining spices. Cover and simmer on low heat for another 10 minutes. \r\n\r\n3. Add the zucchini. Cover and cook for about 8-10 more minutes until zucchini is cooked, but still firm.\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "1eb44caa-02ae-4491-93af-06cd39eede38",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/1eb44caa-02ae-4491-93af-06cd39eede38.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "76307afa-4e54-46c4-a955-3e5ca816ea81",
+                "status": "active",
+                "visibility": "",
+                "name": "Mexican Beef Taco Lettuce Wraps",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. In a large skillet, heat olive oil over medium high heat. Add in onion and garlic and sauté for 3-4 minutes, stirring constantly.\r\n\r\n2. Next, add in ground beef and break up with a spoon. Let cook until meat is completely browned. \r\n\r\n3. In a small bowl or measuring Cup combine water and taco seasoning. Pour into skillet over meat and add in beans. Let mixture come to a boil and lower to a simmer. Let simmer uncovered for 10-15 minutes until there is no liquid left in skillet.\r\n\r\n4. While meat mixture is simmering, prepare your condiments, chop avocado in chunks, rough chop cilantro, clean lettuce and remove individual leaves. \r\n\r\n5. Place Pico de Gallo/salsa and Greek Yogurt in serving bowls. Pull out hot sauce. *Serve* while hot and *Enjoy!*\r\n\r\n** 2 lettuce wraps equals 1 serving.**\r\n",
+                "ingredients": null,
+                "servings": 8,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "9cf875f2-4c01-461d-9166-feba24d64f65"
+                ],
+                "images": [
+                    {
+                        "uuid": "35c7a929-ddb1-497e-95ba-2a82047a7b07",
+                        "title": "",
+                        "mimetype": "image/png",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/35c7a929-ddb1-497e-95ba-2a82047a7b07.png"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "cd81f916-720f-4904-87b6-ad5af4fb10e2",
+                "status": "active",
+                "visibility": "",
+                "name": "Mushroom and Garlic Roast Beef",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Preheat oven to 350F Degrees**.\r\n\r\n1. Tie the roast and season generously with salt and pepper.\r\n\r\n2. Mix together rosemary and garlic. Add 2 Tbsp of olive oil and stir to combine. Reserve\r\n\r\n3. In a cast iron skillet, over medium heat, heat 2 Tbsp of olive oil. Once smoking hot, sear all sides of the meat. Remove skillet from heat. \r\n\r\n4. Brush the herb garlic mixture all over the roast. Bring the roast, in the cast iron skillet, to the preheated oven and cook for about 1 1/2 hours or until a meat thermometer reads 135F degrees (medium-rare). Let it rest for at least 10 minutes before serving (final temperature should be 145F for medium rare.)\r\n\r\n5. While the roast is resting, sauté the mushrooms over medium heat with 2 Tbsp butter until cooked through and no liquid is left in the pan, about 5 minutes. Season with salt and pepper.\r\n\r\n6. Remove roast from the cast iron skillet and bring the skillet to the stovetop. Add stock to the pan and deglaze the pan, scraping all the bits from the bottom. Allow to simmer until thick.\r\n\r\n7. Add the mushrooms to the sauce, stir in the remaining 2 Tbsp of butter and stir until the sauce is silky. Then place the roast back in the cast iron with the sauce and spoon some of the sauce over the roast. Garnish serving platter with fresh rosemary if desired.\r\n",
+                "ingredients": null,
+                "servings": 10,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "782397ba-9d33-4882-b81f-2449be3be9f3",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/782397ba-9d33-4882-b81f-2449be3be9f3.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "c6fcc4ba-aae0-4502-ab61-72ffc81f4408",
+                "status": "active",
+                "visibility": "",
+                "name": "Nela's Stuffed Red Peppers",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Preheat oven to 350F Degrees.**\r\n\r\n1. Cut a circle around the stalk of the peppers and remove the seeds. \r\n\r\n2. Roast them (including the stalk) in the oven for about 20 minutes. \r\n\r\n**Alternatively** -Place the peppers in a microwave and cook until they are soft (about 8 minutes). Place them in a bowl, cover them and let them cool.\r\n\r\n3. To prepare the ground beef heat the oil in a frying pan. Add the beef and brown well. \r\n\r\n4. Add the onions, chili powder, oregano and cinnamon and cook for another 5 minutes. \r\n\r\n5. When the peppers have cooled down, peel the skin off (optional). \r\n\r\n6. Stuff each pepper with your allotted portion of meat and 1 oz of goat cheese in alternating layers. Cover them with their stalk.\r\n\r\n7. Blend the tomatoes, garlic and ketchup in a blender. \r\n\r\n8. Place the tomato sauce in a heavy pot and bring to a boil. Add salt and pepper to taste. Add the stuffed peppers, turn the heat to low and simmer for about 10 minutes, trying to baste the peppers with the sauce. ",
+                "ingredients": null,
+                "servings": 5,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "e3028b5a-79fa-4e36-a9cb-1c4e02a08c30",
+                        "title": "",
+                        "mimetype": "image/png",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/e3028b5a-79fa-4e36-a9cb-1c4e02a08c30.png"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "e6a5ece9-65b3-4db6-ad5d-320640d6a02c",
+                "status": "active",
+                "visibility": "",
+                "name": "One Pan Garlic Butter Steak with Green Beans",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. In a large bowl, combine the steak strips with soy sauce, olive oil, pepper, and hot sauce. Set aside to marinate for 10 minutes while you prepare green beans.\r\n\r\n2. While meat is marinating, arrange green beans in a microwave-safe dish with 1/2 Cup water. Cook in the microwave for 8-10 minutes, until almost done but still crisp.\r\n\r\n3. Melt 2 Tbsp butter in a large skillet over medium-high heat. Lay the steak strips in one layer in the skillet, keeping drained marinade for later. Sear on for 1 minute on one side, until nicely browned. \r\n\r\n4. Add half the garlic and red chili pepper flakes and turn steak strips to finish cooking for 1 minute more  **adjust timing depending on how you like your steak.** Transfer steak strips to a plate and set aside.\r\n\r\n5. In the same skillet, lower the heat and melt the remaining Tbsp of butter. Add chopped parsley, thyme, remaining garlic, Italian seasoning, red crushed chili pepper flakes and pre-cooked green beans and cook for 4-5 minutes, stirring regularly, until cooked to your liking. \r\n\r\n6. Deglaze with lemon juice, beef stock, and reserved steak marinade and reduce the sauce for a couple of minutes. \r\n\r\n7. Add steak strips back to the pan and reheat quickly. Adjust seasoning with pepper and *Serve* immediately, garnished with more crushed chili pepper, fresh herbs, and a slice of lemon if you like. *Enjoy!*\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 5,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "50f7d5b7-244d-4917-90e5-cf2b9f7802d2"
+                ],
+                "images": [
+                    {
+                        "uuid": "c104315e-3859-4946-9b1e-afc2b377d703",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/c104315e-3859-4946-9b1e-afc2b377d703.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "403e1d23-2d77-462a-94ed-37fd0ee690c9",
+                "status": "active",
+                "visibility": "",
+                "name": "One Pan Mexican Beef and Zucchini",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1.Heat pan over medium heat. \r\n\r\n2. Brown ground beef with minced garlic, salt, and pepper. \r\n\r\n3. Add tomatoes and remaining spices. Cover and simmer on low heat for another 10 minutes.\r\n\r\n4.Add the zucchini. Cover and cook for about 10 more minutes until zucchini is cooked, but still firm.\r\n\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "dd2d3006-c608-4a8a-aa61-bbc3bfd8db9a"
+                ],
+                "images": [
+                    {
+                        "uuid": "ff3fa7d2-9568-46bb-8dfd-5f48c22d6e6c",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/ff3fa7d2-9568-46bb-8dfd-5f48c22d6e6c.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "3b105aec-116a-4f0f-b0f6-e6082875d9d1",
+                "status": "active",
+                "visibility": "",
+                "name": "Panang-Style Beef Curry",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Before starting, wash and dry all produce. Add 1 1/4 cups water and 1/8 tsp salt to a medium pot. Cover and bring to a boil over high heat. While water comes to a boil, core, then cut the pepper into 1/2-inch pieces. Roughly chop cilantro. Finely chop the chilli, removing seeds for less heat. (TIP: We suggest using gloves when prepping chilis!)\n2. Add rice to the boiling water. Reduce heat to low. Cover and cook until rice is tender and liquid is absorbed 12-14 min. Remove the pot from heat. Set aside, still covered.\n3. While rice cooks heat a large non-stick pan over medium-high heat. When hot, add 1 tbsp oil, then beef and garlic puree. Cook, breaking up beef into smaller pieces, until no pink remains, 4-5 min. Season with salt and pepper.\n4. Add peppers and onions to the pan with the beef. Cook, stirring occasionally, until softened, 2-3 min. Add mild curry paste, red curry base, soy sauce, peanut butter and 1/4 tsp chilli. Cook, stirring often, until fragrant, 1 min.\n5. Add coconut milk to the pan. Cook, stirring often, until curry thickens slightly, 2-3 min. Season with salt and pepper.\n6. Fluff rice with a fork. Add half the cilantro and season with salt, then stir to combine. Divide rice between plates and top with beef curry. Sprinkle peanuts and remaining cilantro over top.",
+                "ingredients": [],
+                "servings": 0,
+                "rating": null,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "8cc79598-28a5-4b78-90ed-5e498c4ebdb5",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/8cc79598-28a5-4b78-90ed-5e498c4ebdb5.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "14b59daa-9a66-44c3-a48d-48368b28f712",
+                "status": "active",
+                "visibility": "",
+                "name": "Peppered Steak",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Combine oil, peppercorns, garlic and herbs in a small bowl. \r\n\r\n2. Rub mixture on both sides of each steak. Cover and refrigerate for at least 30 minutes. \r\n\r\n3. Heat grill at medium-high heat. Place steaks on grid and grill uncovered for 10-12 minutes of until desired doneness.\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "9966ac04-7a53-49f9-b01a-314a4357aa6e"
+                ],
+                "images": [
+                    {
+                        "uuid": "10ce5a0d-0994-4b20-bca6-e6b797484cda",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/10ce5a0d-0994-4b20-bca6-e6b797484cda.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "db261644-9575-492d-91f9-cb5e7e061c34",
+                "status": "active",
+                "visibility": "",
+                "name": "SFL's Swiss Steak",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Heat a nonstick skillet to medium-high heat with oil. Brown the steak well on both sides. Pour off or blot away any fat. Return the meat to the skillet and add the remaining ingredients. \r\n\r\n2. Cover and simmer about 15 minutes, or to desired doneness. *The mixture may also be transferred to a covered baking dish and cooked in a **350F Degrees** oven until tender.\r\n",
+                "ingredients": null,
+                "servings": 3,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [],
+                "favorite": false
+            },
+            {
+                "uuid": "c300236f-e782-4456-a7c6-24b0c724e322",
+                "status": "active",
+                "visibility": "",
+                "name": "Sheet Pan Steak and Veggies",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Preheat oven to broil. Lightly oil a baking sheet.\n2. In a large pot of boiling salted water, cook potatoes until parboiled for 12-15 minutes; drain well.\n3. Place potatoes and broccoli in a single layer onto the prepared baking sheet. Add olive oil, garlic and thyme; season with salt and pepper, to taste. Gently toss to combine.\n4. Season steaks with salt and pepper, to taste, and add to the baking sheet in a single layer.\n5. Place into oven and broil until the steak is browned and charred at the edges, about 4-5 minutes per side for medium-rare, or until desired doneness.\n\nServe immediately with garlic butter, if desired.",
+                "ingredients": [],
+                "servings": 6,
+                "rating": null,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "9966ac04-7a53-49f9-b01a-314a4357aa6e"
+                ],
+                "images": [
+                    {
+                        "uuid": "c0b6f132-90ac-4686-95aa-67a9f6af6d41",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/c0b6f132-90ac-4686-95aa-67a9f6af6d41.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "3a95127a-c193-4f6b-8e4b-bbec428066ec",
+                "status": "active",
+                "visibility": "",
+                "name": "Shepherd's Pie with Cauliflower Topping",
+                "description_short": "",
+                "description_long": "",
+                "directions": "*Preheat the oven to 400F Degrees.**\r\n\r\n1. Grease a 2-3 quart casserole dish and set aside.\r\n\r\n2. In a large pot, steam or boil cauliflower until tender.\r\n\r\n3. Heat butter in a large skillet or saucepan over medium high heat. Add the onion, celery, carrots and garlic and cook until beginning to soften, around 5 minutes.\r\n\r\n4. Add the ground meat to the pan and cook until browned. Add beef broth as necessary to keep the mixture wet. \r\n\r\n5. Add the ketchup or tomato paste, parsley and season with salt and pepper. Let simmer.\r\n\r\n**To make the cauliflower topping**\r\n\r\n1. Drain the cooked cauliflower. Mash or puree with a stick blender until smooth. Add 2 Tbsp butter and season with salt and pepper.\r\n\r\n2. To assemble, spread the meat mixture on the bottom of the casserole dish. Top with the cauliflower mixture and smooth with a spoon. Bake for 30 minutes or until the top is brown and bubbly. *Serve* warm.\r\n",
+                "ingredients": null,
+                "servings": 5,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "2ae806e7-c743-433f-880b-2096cbb4fc2a",
+                        "title": "",
+                        "mimetype": "image/png",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/2ae806e7-c743-433f-880b-2096cbb4fc2a.png"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "01de3512-0185-4ad1-8a65-f7a899774456",
+                "status": "active",
+                "visibility": "",
+                "name": "Simply Patties",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. In a large bowl, mix all ingredients together. \r\n\r\n2. Form patties and cook over medium high heat on the grill for 5-6 minutes each side or until burgers are cooked to a desired doneness.\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "31d91433-47e0-46f5-8900-007e66ca0f5a",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/31d91433-47e0-46f5-8900-007e66ca0f5a.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "b441e500-fdc6-4c37-8d0c-64a9d46adef4",
+                "status": "active",
+                "visibility": "",
+                "name": "Slow Cooker Beef Ribs",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Season the ribs with salt and pepper. \r\n\r\n2. Melt the coconut oil in a large fry pan on medium-high heat.  Add the ribs and cook for 4-5 minutes each side or until browned. Remove from the fry pan and place in the slow cooker. Pour the beef broth over the ribs.\r\n\r\n3. In a small bowl, mix the tomato paste, honey, garlic, Worcestershire sauce and ginger. Pour over the ribs. Cook on low heat for 7-9 hours until the meat is falling off the bone. \r\n\r\n4. Drizzle the sauce over the ribs and *Serve!* \r\n",
+                "ingredients": null,
+                "servings": 10,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "644580ab-849e-416d-a5fe-4e9b80102194"
+                ],
+                "images": [
+                    {
+                        "uuid": "3dba0575-cf47-4c07-9d07-0d8d97282dbe",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/3dba0575-cf47-4c07-9d07-0d8d97282dbe.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "2375a600-5f80-45d9-bc44-b53a594ad322",
+                "status": "active",
+                "visibility": "",
+                "name": "Slow Cooker Spicy Meatballs",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. In a large bowl, combine meatball ingredients, mix well and form into 1in. balls, place in the slow cooker.\r\n\r\n2. In a large bowl, combine rest of the ingredients, pour over meatballs, cover and cook on low 5-6 hours or until meat is no longer pink.\r\n",
+                "ingredients": null,
+                "servings": 16,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "644580ab-849e-416d-a5fe-4e9b80102194"
+                ],
+                "images": [
+                    {
+                        "uuid": "99cad97b-42bf-4158-bb56-ff826f42d4e6",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/99cad97b-42bf-4158-bb56-ff826f42d4e6.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "118d9487-3df6-46c6-9029-28c2d6d40787",
+                "status": "active",
+                "visibility": "",
+                "name": "Slow Cooking Beef",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. In a large skillet over medium heat, heat the oil and brown the beef strips. Transfer to a slow cooker. \r\n\r\n2. Heat beef broth and add whole wheat flour and mix until dissolved. Transfer to slow cooker. \r\n\r\n3. Add onion, green pepper, red pepper, stewed tomatoes, soy sauce, honey and pepper. \r\n\r\n4. Cover and cook on high for 3 to 4 hours or on low for 6 to 8 hours.\r\n",
+                "ingredients": null,
+                "servings": 1,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "644580ab-849e-416d-a5fe-4e9b80102194"
+                ],
+                "images": [
+                    {
+                        "uuid": "84956226-cc51-4081-a340-43819ff02484",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/84956226-cc51-4081-a340-43819ff02484.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "60f86b93-1309-4a7d-904c-8c4c1687ec2c",
+                "status": "active",
+                "visibility": "",
+                "name": "Spaghetti Squash Boats",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Preheat oven to 400F Degrees.** \r\n\r\n1. Slice spaghetti squash length wise and scrape out the seeds. \r\n\r\n2. Rub 1/4 Tbsp butter into each squash half and season with salt and pepper. \r\n\r\n3. Place spaghetti squash face down in a large baking dish and bake for 40-60 min. When squash is done, middle will be tender and pull apart easily.\r\n\r\n4. In a large pan, sauté onion and garlic in remaining butter over medium heat until fragrant. \r\n\r\n5. Add ground turkey. Season with salt and pepper and cook until browned. Add crushed tomato and remaining spices. When sauce starts to bubble, reduce heat to a simmer until thickened (about 3-4 minutes).\r\n\r\n6. When spaghetti squash is fully cooked, flip in the baking dish so that it is now skin side down. \r\n\r\n7. Evenly divide sauce between each squash half. Top each with 1/4 Cup cheese. \r\n\r\n8. Turn oven to broil, and cook for another 2 minutes, until cheese is browned and bubbling. **This happens very quickly, make sure to watch closely, otherwise it can burn easily.**\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "70a765bd-24eb-4d65-8afa-c2c3a52522cd",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/70a765bd-24eb-4d65-8afa-c2c3a52522cd.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "ee7449ac-a566-4bda-8961-8a2dda6a68b3",
+                "status": "active",
+                "visibility": "",
+                "name": "Spaghetti Squash Lasagna Skillet",
+                "description_short": "low carb",
+                "description_long": "",
+                "directions": "1. Cook beef - Heat oven to 425°F. Cook beef over medium heat in a deep 12-inch oven-safe skillet, breaking it up with a spatula. Cook until no pink remains - roughly 8 minutes. Use a paper towel to carefully blot up extra grease or fat from the pan.\n \n2. Combine - Add the cooked spaghetti squash, marinara sauce, basil, oregano, and salt. Stir to combine (tongs make it easier to mix the spaghetti squash in with the sauce/beef). Cook over medium heat for 3 or so minutes, until heated through.\n \n3. Bake - Dollop the ricotta over the skillet, then sprinkle with cheese. Place the skillet in the heated oven for 5 or so minutes, until sauce bubbles and cheese is melted.\n \n4. Serve - Using oven mitts, carefully remove the skillet from the oven. Serve with fresh basil.",
+                "ingredients": [],
+                "servings": 6,
+                "rating": null,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "50f7d5b7-244d-4917-90e5-cf2b9f7802d2"
+                ],
+                "images": [
+                    {
+                        "uuid": "39718d47-f745-4c2d-8822-7a058a60b6c7",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/39718d47-f745-4c2d-8822-7a058a60b6c7.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "f992297a-c55c-4a0e-a4d2-a49a3d2f61aa",
+                "status": "active",
+                "visibility": "",
+                "name": "Spaghetti Squash Pizza Casserole",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Preheat oven to 400F Degrees.**\r\n\r\n1. Cut spaghetti squash in half lengthwise. Place cut side down in a baking dish with 1/2in. of water. Cover and put in oven to steam for 30 minutes or until you can poke through the squash with a fork.\r\n\r\n2. While squash is steaming, put onion and butter in a sauté pan over medium heat and allow the onion to cook until translucent, about 5 minutes. \r\n\r\n3. Add ground beef and cook until the beef is no longer pink, then add pizza sauce, garlic powder, paprika, parsley, Italian seasoning, salt, and pepper.\r\n\r\n4. Once squash has steamed, allow the squash to cool, then thread the squash into an 8x8in. baking dish.  Mix the spaghetti squash, beef mixture, and Parmesan cheese in the baking dish. \r\n\r\n5. Add the whisked eggs and mix well, then sprinkle additional parmesan cheese and basil on top.\r\n\r\n6. Place in the oven uncovered and bake for 40 minutes or until the cheese begins to bubble. Allow to sit for 10 minutes before digging into it.\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [],
+                "favorite": false
+            },
+            {
+                "uuid": "6425cb88-f843-4971-87cd-628ea7a3d7fd",
+                "status": "active",
+                "visibility": "",
+                "name": "Spicy Jalapeño Chili",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Place all ingredients except the scallion, avocado and feta cheese in the slow cooker and cook on low for 8 hours. \r\n\r\n2. When done, break up the ground meat with a wooden spoon and add half of the goat cheese if using.\r\n\r\n3. *Serve* garnished with scallions and avocado on top.\r\n",
+                "ingredients": null,
+                "servings": 8,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "a55021c0-f71a-4fcd-94be-ba85e4a8b1cf",
+                    "644580ab-849e-416d-a5fe-4e9b80102194"
+                ],
+                "images": [
+                    {
+                        "uuid": "ef8f6712-9992-4d9d-8cab-b9af705af028",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/ef8f6712-9992-4d9d-8cab-b9af705af028.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "88cb9ea0-a9b9-4e75-a081-560edd6c257b",
+                "status": "active",
+                "visibility": "",
+                "name": "Spicy Thai Beef Tenderloin Strips",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Spoon coconut cream (thick layer at top of can) into a large skillet, stir in curry paste. \r\n\r\n2. Bring to a boil over medium-high heat. Add remaining coconut milk, maple syrup, fish sauce, and red pepper, bring to a boil. Cook 2 minutes, stirring constantly. \r\n\r\n3. Add bell pepper and onion, reduce heat to medium, and simmer 4 minutes. \r\n\r\n4. Add beef, cook 3 minutes or until done, stirring occasionally. Sprinkle with lime wedges and *Serve!*\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "6cfecbac-dd22-4876-98c7-64696255de8a",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/6cfecbac-dd22-4876-98c7-64696255de8a.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "bb2d6aca-a345-4bde-bbed-1e1a7365c6a5",
+                "status": "active",
+                "visibility": "",
+                "name": "Steak with wine sauce",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Combine wine, Worcestershire sauce, vinegar, honey, bouillon granules and thyme, set aside.\r\n\r\n2. Heat large non-stick skillet over high heat. Add steaks, cook 3-5 minutes on each side.\r\n\r\n3. Cook until desired doneness. \r\n\r\n4. Cut steaks in half and place in the oven to keep warm. \r\n\r\n5. Add wine mixture to same skillet. Bring to a boil, cook and stir 1-2 minutes scraping up any brown bits. \r\n\r\n6. Spoon sauce over steaks and sprinkle with parsley if desired.\r\n",
+                "ingredients": null,
+                "servings": 2,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "e75fd528-e994-4b83-bcd1-0dfb64febafa",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/e75fd528-e994-4b83-bcd1-0dfb64febafa.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "b83e8368-8dbe-47dc-8a56-83367c60df8d",
+                "status": "active",
+                "visibility": "",
+                "name": "Steaks with Herb Pan Sauce",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Preheat oven to 425F Degrees.**\r\n\r\n1. Pat the steaks dry with paper towels, then season both sides with salt and pepper. Set aside allowing the steaks to come to room temperature for 30 minutes.\r\n\r\n2. Heat the oil in a large skillet on medium-high heat until shimmering. Add the steaks and cook without moving or turning for 3 minutes. Flip the steaks over using tongs and immediately put the skillet in the preheated oven. \r\n\r\n3. Cook until the steaks are firm to the touch, about 8-9 minutes for medium rare. Remove from the oven and transfer the steaks to a warm plate. Tent with foil and keep in a warm location while preparing the sauce.  ,\r\n\r\n**Sauce:**\r\n\r\n1. Return the skillet to the stove top set to low heat and add the butter. Once melted, add the shallots. Cook, stirring frequently, about 1 minute. \r\n\r\n2. Carefully add the red wine, if using, and bring to a boil. Cook and stir, scraping up any browned bits stuck to the bottom, until the wine has mostly evaporated. \r\nStir in the mustard and increase the heat to medium-high. \r\n\r\n3. Add the beef broth and Worcestershire sauce and bring to a boil. Continue to cook and stir until the sauce is slightly reduced, about 5 minutes. \r\n\r\n4. Turn the heat to medium and add the cream. Simmer for a few minutes or until the sauce coats the back of a spoon, about 3 minutes. Turn off the heat and stir in the herbs.\r\n\r\n5. Transfer the steaks to individual plates and pour any accumulated juices from the steaks into the pan sauce. Stir to combine, then drizzle over the steaks and *Serve* immediately.\r\n\r\n\r\n",
+                "ingredients": null,
+                "servings": 2,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "50f7d5b7-244d-4917-90e5-cf2b9f7802d2"
+                ],
+                "images": [
+                    {
+                        "uuid": "0f9cbfd9-9608-4bcf-96ca-cdc9e69db080",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/0f9cbfd9-9608-4bcf-96ca-cdc9e69db080.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "6b23590e-c67b-471e-beea-9337b731d87d",
+                "status": "active",
+                "visibility": "",
+                "name": "Stir Fried Beef and Bok Choy",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. In a small bowl, stir in water and flour. \r\n\r\n2. Add next 6 ingredients and set aside. \r\n\r\n3. Heat wok on medium-high. Add oil and cook beef strips until almost cooked. Stir in water mixture. Stir beef mixture until it boils and thickens. \r\n\r\n4. Add bok choy and stir until just starts to wilt and *Serve!*\r\n",
+                "ingredients": null,
+                "servings": 5,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "0a23b195-f52a-4fe3-9695-55a69c5ed640",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/0a23b195-f52a-4fe3-9695-55a69c5ed640.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "2df51fa7-7022-43be-9476-17c3a8298c3e",
+                "status": "active",
+                "visibility": "",
+                "name": "Stuffed Portobellos",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Preheat oven to 350F Degrees.** \r\n\r\n1. In large skillet over medium heat, cook ground beef 5 - 6 minutes.\r\n\r\n2.  Add onion and bell peppers, cook until vegetables are tender, 3 - 4 minutes. \r\n\r\n3. Add spinach, tomatoes, garlic and red pepper flakes and stir. Set aside. \r\n\r\n4. Fill mushroom caps with beef mixture and sprinkle with cheese. \r\n\r\n5. Grill in oven until cheese is brown and mushroom caps are warm. About 5 - 8 minutes. *Serve!*\r\n",
+                "ingredients": null,
+                "servings": 3,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "58249759-d6a5-49db-97b2-4b71e13a881a"
+                ],
+                "images": [
+                    {
+                        "uuid": "b2bcfdd9-ece2-4b01-8ac5-516aa5712f74",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/b2bcfdd9-ece2-4b01-8ac5-516aa5712f74.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "30bdcda0-b871-45ec-9982-60a199a86655",
+                "status": "active",
+                "visibility": "",
+                "name": "Sweet Potato Shepherd's Pie",
+                "description_short": "",
+                "description_long": "",
+                "directions": "**Preheat oven to 400F Degrees.**\r\n\r\n1. Slit top of sweet potatoes from end to end. Wrap sweet potatoes in paper towel and cook in microwave for 10 minutes. Remove and let cool. \r\n\r\n2. Heat coconut oil in a skillet over medium-low heat. Add onion and sauté several minutes until soft. \r\n\r\n3. Add beef and cook for about 5 minutes, stirring to break up the meat so it browns evenly. \r\n\r\n4. Add peas, carrots and cook another 5 minutes. \r\n\r\n5. Stir in the coconut flour. \r\n\r\n6. Add broth and herbs and reduce the heat to low and simmer, stirring occasionally, for about 5 minutes. Add salt and pepper to taste. Remove from skillet and put into a 9in. casserole dish. \r\n\r\n7. Scoop out potato flesh from peel into bowl and mash with 1 Tbsp of butter and salt and pepper. \r\n\r\n8.Spread the mashed potato mixture over the top of the beef veggie mixture with a fork. Bake for 20-25 minutes until potato crust turns golden brown.\r\n",
+                "ingredients": null,
+                "servings": 5,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "0a229a74-1624-4c3f-a3ac-6379f579b3fd",
+                        "title": "",
+                        "mimetype": "image/png",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/0a229a74-1624-4c3f-a3ac-6379f579b3fd.png"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "6e6e9cf0-11cb-49bf-89a8-270cb069a9ce",
+                "status": "active",
+                "visibility": "",
+                "name": "Unstuffed Cabbage Rolls",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. In a large skillet, heat olive oil over medium heat. Add the ground beef and onion and cook, stirring, until ground beef is no longer pink and onion is tender. \r\n\r\n2. Add the garlic and continue cooking for 1 minute.\r\n\r\n3. Add the chopped cabbage, tomatoes, tomato sauce, pepper, water, and salt. Bring to a boil. Cover and simmer for 20-30 minutes, or until cabbage is tender.\r\n",
+                "ingredients": null,
+                "servings": 8,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "bf7181f4-dab9-4f6d-b115-166effdec605",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/bf7181f4-dab9-4f6d-b115-166effdec605.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "101632e2-c82d-41da-8bb1-73ba8a39f462",
+                "status": "active",
+                "visibility": "",
+                "name": "Unstuffed Peppers",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. In a large skillet, brown your meat until cooked. \r\n\r\n2. In the same skillet, toss diced pepper pieces and sauté for 1 minute. \r\n\r\n3. Stir in tomato sauce and spices, until well blended and steaming hot.\r\n",
+                "ingredients": null,
+                "servings": 6,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d",
+                    "dd2d3006-c608-4a8a-aa61-bbc3bfd8db9a"
+                ],
+                "images": [],
+                "favorite": false
+            },
+            {
+                "uuid": "f46608df-41b2-4ecc-88fd-c506ebfd9aea",
+                "status": "active",
+                "visibility": "",
+                "name": "Yummy BBQ Steak",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. Combine onions, wine, vinegar, oil, basil, salt and red pepper flakes in a baking dish and mix well. \r\n\r\n2. Pierce steak all over and rub with garlic. Place steak in dish, turn to coat. Cover and marinate in refrigerator for at least 30 minutes.\r\n\r\n**Preheat grill at medium-high heat.** \r\n\r\n3.Cook steak for 6-8 minutes on each side basting frequently with remaining marinade. Cook until desired doneness.\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "ab2db8da-65d1-4689-85ca-d77053ec4346",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/ab2db8da-65d1-4689-85ca-d77053ec4346.jpeg"
+                    }
+                ],
+                "favorite": false
+            },
+            {
+                "uuid": "14fbf1c3-4d73-4cb8-bd38-f77609dda250",
+                "status": "active",
+                "visibility": "",
+                "name": "Zesty BBQ Steak",
+                "description_short": "",
+                "description_long": "",
+                "directions": "1. In a small bowl, stir dijon mustard with lime juice, garlic, cayenne, cumin, salt and coriander.\r\n\r\n2. Rub or brush both sides of steak evenly with mustard mixture. Place steak in a large plastic bag. Leave at room temperature for 1 hour or refrigerate overnight.\r\n\r\n**Preheat BBQ to medium-high.**\r\n\r\n3. Bring steak to room temperature, and then grill with lid closed 5- 6 minutes per side for medium-rare. Remove from grill and let stand 5 minutes.\r\n",
+                "ingredients": null,
+                "servings": 4,
+                "rating": 0,
+                "recipe_categories": [
+                    "ded4ac6a-8b31-413e-9dc5-3fdaa212032d"
+                ],
+                "images": [
+                    {
+                        "uuid": "03ad284b-b8c4-4539-9bd2-9043b9a62494",
+                        "title": "",
+                        "mimetype": "image/jpeg",
+                        "description": "",
+                        "path": "https://app-api.simplyforlife.com/recipeImages/03ad284b-b8c4-4539-9bd2-9043b9a62494.jpeg"
+                    }
+                ],
+                "favorite": false
+            }
+        ]
+    }
+}
